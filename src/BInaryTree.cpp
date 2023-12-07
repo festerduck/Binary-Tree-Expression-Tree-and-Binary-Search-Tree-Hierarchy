@@ -5,7 +5,6 @@ template <class Comparable>
 BinaryNode<Comparable>* deepCopy(BinaryNode<Comparable>* root);
 
 
-
 template <class Comparable>
 BinaryTree<Comparable>::BinaryTree(){
   tree_root = NULL;

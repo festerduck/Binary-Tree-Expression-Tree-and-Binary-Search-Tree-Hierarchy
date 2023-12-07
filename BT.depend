@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1701957453 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
+1701962361 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
 	"../include/BInaryTree.h"
 	<queue>
 
@@ -11,12 +11,19 @@
 	"BInaryTree.cpp"
 	<string>
 
-1701958099 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
+1701962361 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
 	"../include/BInaryTree.h"
 	<queue>
 
-1701957747 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\main.cpp
+1701965269 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\main.cpp
 	<string>
 	<iostream>
+	"BST.h"
 	"include/BInaryTree.h"
+
+1701964445 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\include\bst.h
+	<BInaryTree.h>
+
+1701966194 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\bst.cpp
+	"BST.h"
 
