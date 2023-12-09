@@ -2,7 +2,7 @@
 #include <iostream>
 #include "BST.h"
 #include "BInaryTree.h"
-//#include "ExpressionTree.h"
+#include "ExpressionTree.h"
 using namespace std;
 template <class Comparable>
 void traverse_tree(BinaryTree<Comparable> * tree);
@@ -12,7 +12,7 @@ void test_binary_search_tree();
 int main()
 {
     test_binary_tree();
-//test_expression_tree();
+    test_expression_tree();
     test_binary_search_tree();
     return 0;
 }
@@ -34,7 +34,7 @@ void test_binary_tree()
     traverse_tree(&tr3);
     cout<<endl;
 }
-/*void test_expression_tree()
+void test_expression_tree()
 {
 cout<<"\nTesting Expression Tree"<<endl;
 string expression = "762*+6+5-";
@@ -42,7 +42,7 @@ ExpressionTree expTree = ExpressionTree();
 expTree.create_expression_tree(expression);
 traverse_tree(&expTree);
 cout<<endl;
-}*/
+}
 void test_binary_search_tree()
 {
     cout<<"\nTesting Binary Search Tree"<<endl;

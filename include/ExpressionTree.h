@@ -1,6 +1,7 @@
 #pragma once
 #include <BInaryTree.h>
 #include <string>
+#include <stack>
 //Expression tree node pointer
 typedef BinaryNode<char>* ExpTreeNodePtr;
 //Class ExpressionTree works with characters only

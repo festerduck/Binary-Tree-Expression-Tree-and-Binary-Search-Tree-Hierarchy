@@ -38,6 +38,7 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="include/BST.h" />
+		<Unit filename="include/ExpressionTree.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/BInaryTree.cpp" />
 		<Unit filename="src/BInaryTree_Impl.cpp" />
@@ -45,6 +46,7 @@
 		<Unit filename="src/BST_Impl.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="src/ExpressionTree.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -15,15 +15,21 @@
 	"../include/BInaryTree.h"
 	<queue>
 
-1701965269 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\main.cpp
+1702151339 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\main.cpp
 	<string>
 	<iostream>
 	"BST.h"
-	"include/BInaryTree.h"
+	"BInaryTree.h"
+	"ExpressionTree.h"
 
 1701964445 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\include\bst.h
 	<BInaryTree.h>
 
 1701966194 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\bst.cpp
 	"BST.h"
+
+1702152294 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\include\expressiontree.h
+	<BInaryTree.h>
+	<string>
+	<stack>
 
