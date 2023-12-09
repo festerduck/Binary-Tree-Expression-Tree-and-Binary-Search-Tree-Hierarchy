@@ -7,12 +7,12 @@
 	<iostream>
 	<queue>
 
-1701957427 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree_impl.cpp
+1702153943 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree_impl.cpp
 	"BInaryTree.cpp"
 	<string>
 
-1701962361 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
-	"../include/BInaryTree.h"
+1702154967 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\binarytree.cpp
+	"BInaryTree.h"
 	<queue>
 
 1702151339 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\main.cpp
@@ -30,6 +30,11 @@
 
 1702152294 c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\include\expressiontree.h
 	<BInaryTree.h>
+	<string>
+	<stack>
+
+1702153886 source:c:\users\festerduck\onedrive - higher education commission\documents\data structures and algorithms\assign\bt\src\expressiontree.cpp
+	"ExpressionTree.h"
 	<string>
 	<stack>
 
